@@ -6,6 +6,7 @@
         "port": 42072
     },
     "signingAddress": "",
+    "dataDir": "",
     "history": 1440,
     "room": "Tuxcoin General",
     "enterToSend": true,
