@@ -1,0 +1,27 @@
+{
+    "rpcConnection": {
+        "username": "user",
+        "password": "password",
+        "ip": "127.0.0.1",
+        "port": 42072
+    },
+    "signingAddress": "",
+    "history": 1440,
+    "room": "Tuxcoin General",
+    "enterToSend": true,
+    "mute": false,
+    "subEmotes": true,
+    "colors": [
+        "red",
+        "green",
+        "blue",
+        "yellow",
+        "cyan",
+        "pink",
+        "purple",
+        "magenta",
+        "black",
+        "white"
+    ],
+    "roomHistory": ["Tuxcoin General"]
+}
