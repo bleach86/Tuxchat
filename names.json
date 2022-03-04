@@ -1,0 +1,38 @@
+{
+    "bestBlock": 1840208,
+    "nameList": [
+        "TUXPRINT",
+        "BALLZOUT",
+        "NOBS-EVILGENIUS",
+        "SHOVELFACE",
+        "SMOKEN'JZ"
+    ],
+    "TUXprintswuKiWcVTKFGhL5DVcarDYa662": {
+        "name": "tuxprint",
+        "color": "cyan"
+    },
+    "TSeXUnk9oeECR3Rpcruv1b21NtjfySne1V": {
+        "name": "BallzOut",
+        "color": "red"
+    },
+    "TPm7sPgoDzTPwoFLzEsGw17jWgTQakQpue": {
+        "name": "ShovelFace",
+        "color": "yellow"
+    },
+    "TQomiA2dHLr3pUJq6EmdSFXeFi1F2xFjnU": {
+        "name": "NoBS-Evilgenius",
+        "color": "red"
+    },
+    "TBHexexCn455kR8Qhso5sf8oEc51xvokUi": {
+        "name": "",
+        "color": "green"
+    },
+    "TWNeS33wCTPUSaYg81gpGvW5MufCLH1ZNR": {
+        "name": "",
+        "color": "pink"
+    },
+    "TAgXiTqQEYNPE7HbiyEtKTE6MFLn2cLRiZ": {
+        "name": "SmokeN'Jz",
+        "color": "green"
+    }
+}
