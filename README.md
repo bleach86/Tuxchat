@@ -27,3 +27,5 @@ You are now ready to use tuxchat!
 
 Note: tuxchat communicates with the tuxcoin network over rpc. If you wish to change the rpc username and password in the tuxcoin.conf file,
 then you need to make sure to make the same changes in settings.json file.
+
+This is early access/alph level software. Use at own risk. There may be breaking changes made at anytime without notice.
